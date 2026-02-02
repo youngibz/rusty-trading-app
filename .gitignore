@@ -5,3 +5,9 @@ target/
 *.rs.bk
 .vscode/
 .idea/
+
+# Ignore example projects
+/guessing_game/
+/hello_cargo/
+/hello_world/
+/minigrep/

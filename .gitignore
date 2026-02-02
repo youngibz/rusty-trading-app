@@ -1,12 +1,7 @@
 .DS_Store
-/target/
+target/
 
-# Ignore rust_trading files except the source I want tracked
-/rust_trading/Cargo.toml
-/rust_trading/src/main.rs
-/rust_trading/.DS_Store
-
-# Editor/temp files
+# Keep rust_trading tracked; only ignore its .DS_Store
 *.rs.bk
 .vscode/
 .idea/
